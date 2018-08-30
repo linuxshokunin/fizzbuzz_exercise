@@ -11,7 +11,7 @@ for i in range(1,100):
     x +=  1
 
   if x == 1:
-    print(i, x, "BUZ")
+    print(i, x, "BUZZ")
   elif x == 2:
     print(i, x, "FIZZ")
   elif x == 3:
